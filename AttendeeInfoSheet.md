@@ -91,7 +91,7 @@ Each team must submit **max 2 slides**:
 - 11:30 – Early delivery deadline
 - 12:00 – Lunch
 - 16:00 – Jury duty & snacks
-- 19:00 – Points & Crowns
+- 19:00 – Points & badges
 - 19:30 – Dinner & SharePint
 
 ---
