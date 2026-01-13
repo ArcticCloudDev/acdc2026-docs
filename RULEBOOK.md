@@ -118,10 +118,9 @@ The following table contains the sponsorship badges:
 
 | **Badge Name**                  | **Category**                      | **Description**                                              | **Judge** |
 | ------------------------------- | --------------------------------- | ------------------------------------------------------------ | --------- |
-| **Sponsorship Badge 1**         | Sponsorship                       | Description for Sponsorship Badge 1                          | TBD       |
-| **Sponsorship Badge 2**         | Sponsorship                       | Description for Sponsorship Badge 2                          | TBD       |
-| **Sponsorship Badge 3**         | Sponsorship                       | Description for Sponsorship Badge 3                          | TBD       |
-| **Sponsorship Badge 4**         | Sponsorship                       | Description for Sponsorship Badge 4                          | TBD       |
+| **MSCRM-Addons**         | Sponsorship                       | Pick one of the amazing addons from MSCRM-addons and incorporate it into your solution. Write a blog article showcasing the solution and post the blog on LinkedIn. Remember to tag MSCRM-Addons                           | All       |
+| **Link Mobility**         | Sponsorship                       | Link Mobility are opening up their API and providing some of the best solutions within communication channels. To claim this badge, you need to embedd their service into your solution and write a blog about it. This blog has to be posted to LinkedIn and you must tag Link Mobility in the post.                         | All       |
+| **OneFlow**         | Sponsorship                       | OneFlow being the marketing leader in document signing are providing their solution for all teams to embedd. Showcase the beauty of documents and merged data, and write a blog post about this. Put the blog post on LinkedIn and tag OneFlow                          | All       |
 
  
 
