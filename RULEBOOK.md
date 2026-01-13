@@ -112,6 +112,17 @@ The following table contains the badges:
 | **Best Build**                  | Claimable  Badge                  | Awarded to  the best build inside team claim land            | Fredrik   |
 | **Escape the Screen**           | Head2Head                         | Your  challenge is to create an interactive experience which escapes the confines  of the screen!  It might be a  game which turns external lights on or off; maybe it's a mischievous chatbot  which accepts voice commands but prints out its answers; could it be a  strange app which plays music.  Show us the  power of your imagination. | Keith     |
 
+## Sponsorship Badge
+
+The following table contains the sponsorship badges:
+
+| **Badge Name**                  | **Category**                      | **Description**                                              | **Judge** |
+| ------------------------------- | --------------------------------- | ------------------------------------------------------------ | --------- |
+| **Sponsorship Badge 1**         | Sponsorship                       | Description for Sponsorship Badge 1                          | TBD       |
+| **Sponsorship Badge 2**         | Sponsorship                       | Description for Sponsorship Badge 2                          | TBD       |
+| **Sponsorship Badge 3**         | Sponsorship                       | Description for Sponsorship Badge 3                          | TBD       |
+| **Sponsorship Badge 4**         | Sponsorship                       | Description for Sponsorship Badge 4                          | TBD       |
+
  
 
 # Judges Gamertags
