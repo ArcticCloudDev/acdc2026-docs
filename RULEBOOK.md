@@ -78,15 +78,15 @@ The following table contains the badges:
 | **Data, AI & Analytics**        | Judging  Category                 | From raw  blocks to data diamonds: Use Fabric to mine and shape all your raw data,  surface insights in Power BI visualizations, and prepare strong foundations  with Fabric IQ so agents and data scientists can discover the true gems. If  it’s not valuable, keep refining! ⛏️💎 | Cathrine  |
 | **Low-Code**                    | Judging  Category                 | I really love  the simplicity of Low code, but also the extent to how far Low code can be  taken without having to write PCF or use code. Intelligent and practical  usage of the Low code capabilities across the PowerPlatform components is  what I'm looking for. Go check out my village for some clues. | Fredrik   |
 | **Code Connoisseur**            | Judging  Category                 | Psst, come  closer - it's all about the code... AI tools: built using code. Data  products: coded into existence. Low-code drag-and-drop stuff: the output of a  codefest!  Demonstrate  how code solves a problem. Be innovative, show off, blow our minds! | Keith     |
-| **Digital transformation**      | Judging  Category                 | Deliver a  solution that helps businesses do more with less, improving customer  experience using intelligent automation. Strong entries show measurable  impact, improved customer or employee experience, and a clear understanding  of how the solution would work in the real world. | Shannon   |
+| **Digital transformation**      | Judging  Category                 | Deliver a  solution that helps businesses do more with less, improving customer  experience using intelligent automation. Strong entries show measurable  impact, improved customer or employee experience, and a clear understanding  of how the solution would work in the real world. | Sara      |
 | **Governance & Best Practices** | Judging  Category                 | AI Governance & Best Practices:     I will be evaluating hackathon  projects with a focus on responsible AI governance and best practices. This  includes assessing how teams address ethics, transparency, data privacy,  security, fairness, regulatory compliance, and risk management, as well as  how thoughtfully AI is integrated into real-world use cases. Emphasis will be  placed on accountable, and trustworthy AI design. | Scott     |
 | **Redstone Realm**              | Judging  Category                 | Craft a real  business solution using the power of Microsoft 365 / Dynamics 365  —SharePoint, Teams, Viva Village, Azure lake and more. Whether you’re working  on desktop or web, using audio, video, keyboard, touch, mouse, or even a  chatty parrot perched on your shoulder, build something both effective and  adventure-worthy.     In this  whirlwind era of AI evolution, you’re not just placing blocks—you’re forging  an AI-infused pickaxe that helps you mine insights faster than ever.  Prioritize accessibility, privacy, and a smooth player experience.     Harness AI, LLMs, Copilot Studio,  Agents, or your own redstone-and-command-block fusion of innovation to bring  your creation to life—the  crafting table is yours… start building! | Mikael    |
-| **Community Champion**          | Claimable  Badge                  | Goes out of their way to help and encourage  other teams.    | Shannon   |
+| **Community Champion**          | Claimable  Badge                  | Goes out of their way to help and encourage  other teams.    | Sara      |
 | **Dooh**                        | Claimable  Badge                  | Goes out of their way to create something  extraordinarily useless or does something really really stupid! | Mikael    |
 | **Early Delivery**              | Claimable  Badge      Soft Badges | First end-to-end working solution or  detailed plan of solution delivery. Must be delivered before lunch (Thursday  12:00). | Scott     |
 | **Happy Camper**                | Claimable  Badge      Soft Badges | Using gadgets, costumes or similar to  create a really cool camp, and keep extraordinary team spirit throughout the  event. | Cathrine  |
-| **Morning Glory**               | Claimable  Badge                  | Starting the day before the sun rises.                       | Shannon   |
-| **Remarkable Teamspirit**       | Claimable  Badge                  | Keeps an extraordinary good team spirit  throughout the day. Snap a picture and post to social media to spread the  word. | Shannon   |
+| **Morning Glory**               | Claimable  Badge                  | Starting the day before the sun rises.                       | Sara      |
+| **Remarkable Teamspirit**       | Claimable  Badge                  | Keeps an extraordinary good team spirit  throughout the day. Snap a picture and post to social media to spread the  word. | Sara      |
 | **Sharing is Caring**           | Claimable  Badge                  | Code, dataset or Api is made available for  other teams and you do a sensible contribution (pull request, Integration) on  a competing teams solution. | Mikael    |
 | **Thieving Bastards**           | Claimable  Badge                  | Uses several third-party solutions in the  delivery, opensource or payable solutions made available by others. Show the  importance of leveraging existing tools and APIs. | Fredrik   |
 | **Chameleon**                   | Claimable  Badge                  | Solution is  responsive. Adapts to all devices and screen sizes | Cathrine  |
@@ -102,7 +102,7 @@ The following table contains the badges:
 | **Plug N' Play**                | Claimable  Badge                  | This is all  about Apps. Create an app/plugin for a Microsoft Product (Teams, SharePoint,  Dynamics, Office 365, VS Code, Visual Studio etc.). And don't forget that it  has to solve a business need. | Scott     |
 | **Power User Love**             | Claimable  Badge                  | Show a good  example of how to use your preffered low-code platform combined with pro code  customization. | Fredrik   |
 | **Retro badge**                 | Claimable  Badge                  | Doing  something cool with late technologies. It's all legacy now, baby! | Mikael    |
-| **Show And Tell**               | Claimable  Badge                  | Got a great,  well thought idea with some cool sketches? Maybe you can get a badge for  that. | Shannon   |
+| **Show And Tell**               | Claimable  Badge                  | Got a great,  well thought idea with some cool sketches? Maybe you can get a badge for  that. | Sara      |
 | **Stairway To Heaven**          | Claimable  Badge                  | Combine at  least three different Microsoft cloud Api's and the badge could be yours! | Keith     |
 | **The Existential Risk**        | Claimable  Badge                  | Demonstrate  and integrate AI that shows an existential risk for the world. Does your  solution have a conscience? Can it think on its own, Is it smarter than a  5'th grader? | Mikael    |
 | **ACDC Craftsman**              | Claimable  Badge                  | Practicing  development and deployment best-practice. Can only be claimed on day 3 in a  single post, where you demonstrate true ACDC craftmanship. | Scott     |
@@ -116,14 +116,14 @@ The following table contains the badges:
 
 # Judges Gamertags
 
-| **Tag**             | **Name** | **Badge Count** |
-| ------------------- | -------- | --------------- |
-| **WobbaBoyza**      | Mikael   | 5               |
-| **SheriffOfNottm**  | Keith    | 5               |
-| **Fredrik C3**      | Fredrik  | 5               |
-|                     | Cathrine | 5               |
-| **Shannanigans736** | Shannon  | 4               |
-| **ScottDurow**      | Scott    | 4               |
+| **Tag**            | **Name** | **Badge Count** |
+| ------------------ | -------- | --------------- |
+| **WobbaBoyza**     | Mikael   | 5               |
+| **SheriffOfNottm** | Keith    | 5               |
+| **Fredrik C3**     | Fredrik  | 5               |
+|                    | Cathrine | 5               |
+| **Wallcreep**      | Sara     | 4               |
+| **Scott Durow**    | Scott    | 4               |
 
  
 
