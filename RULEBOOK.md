@@ -112,6 +112,16 @@ The following table contains the badges:
 | **Best Build**                  | Claimable  Badge                  | Awarded to  the best build inside team claim land            | Fredrik   |
 | **Escape the Screen**           | Head2Head                         | Your  challenge is to create an interactive experience which escapes the confines  of the screen!  It might be a  game which turns external lights on or off; maybe it's a mischievous chatbot  which accepts voice commands but prints out its answers; could it be a  strange app which plays music.  Show us the  power of your imagination. | Keith     |
 
+## Sponsorship Badge
+
+The following table contains the sponsorship badges:
+
+| **Badge Name**                  | **Category**                      | **Description**                                              | **Judge** |
+| ------------------------------- | --------------------------------- | ------------------------------------------------------------ | --------- |
+| **MSCRM-Addons**         | Sponsorship                       | Pick one of the amazing addons from MSCRM-addons and incorporate it into your solution. Write a blog article showcasing the solution and post the blog on LinkedIn. Remember to tag MSCRM-Addons                           | All       |
+| **Link Mobility**         | Sponsorship                       | Link Mobility are opening up their API and providing some of the best solutions within communication channels. To claim this badge, you need to embedd their service into your solution and write a blog about it. This blog has to be posted to LinkedIn and you must tag Link Mobility in the post.                         | All       |
+| **OneFlow**         | Sponsorship                       | OneFlow being the marketing leader in document signing are providing their solution for all teams to embedd. Showcase the beauty of documents and merged data, and write a blog post about this. Put the blog post on LinkedIn and tag OneFlow                          | All       |
+
  
 
 # Judges Gamertags
