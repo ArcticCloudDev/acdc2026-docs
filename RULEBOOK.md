@@ -93,7 +93,7 @@ The following table contains the badges:
 | **Crawler**                     | Claimable  Badge                  | Using search  in an innovative, useful way. Solve a business problem! | Mikael    |
 | **Dash It Out**                 | Claimable  Badge                  | Create great  looking dashboards with graphs, kpis and reports using your preferred data  visulization framework. Minimum 4 graphs, gauges or kpi's. Make sure the  dashboard shows business-value | Cathrine  |
 | **Dataminer**                   | Claimable  Badge                  | Uses external  data to add business-value to existing data in your solution, or mine after  gold in you own data and present it in an excellent way. | Cathrine  |
-| **Embedding numbnut**           | Claimable  Badge                  | Integrate  into everything that flips bits                   | Cathrine  |
+| **Embedding numbnut**           | Claimable  Badge                  | Integrate with any external physical device                   | Cathrine  |
 | **Feature Bombing**             | Claimable  Badge                  | On popular  demand the feature bombing badge is back! But this time cram as many user  features into one screen as you can. Five or more and you might get some  points. If you go all aboard and it all makes sense, extra points | Scott     |
 | **Glossy Pixels**               | Claimable  Badge                  | Shiny,  beautiful, glossy user interfaces would earn this badge, it won't break on  small screens right? | Cathrine  |
 | **Go With The Flow**            | Claimable  Badge                  | Implement  workflow to improve business productivity in a solution. Do you have a  process that can be automated? | Fredrik   |
@@ -104,7 +104,7 @@ The following table contains the badges:
 | **Retro badge**                 | Claimable  Badge                  | Doing  something cool with late technologies. It's all legacy now, baby! | Mikael    |
 | **Show And Tell**               | Claimable  Badge                  | Got a great,  well thought idea with some cool sketches? Maybe you can get a badge for  that. | Sara      |
 | **Stairway To Heaven**          | Claimable  Badge                  | Combine at  least three different Microsoft cloud Api's and the badge could be yours! | Keith     |
-| **The Existential Risk**        | Claimable  Badge                  | Demonstrate  and integrate AI that shows an existential risk for the world. Does your  solution have a conscience? Can it think on its own, Is it smarter than a  5'th grader? | Mikael    |
+| **The Existential Risk**        | Claimable  Badge                  | Demonstrate and mitigate AI that shows an existential risk for the world. Does your  solution have a conscience? Can it think on its own, Is it smarter than a  5'th grader? | Mikael    |
 | **ACDC Craftsman**              | Claimable  Badge                  | Practicing  development and deployment best-practice. Can only be claimed on day 3 in a  single post, where you demonstrate true ACDC craftmanship. | Scott     |
 | **Client Side Salsa**           | Claimable  Badge                  | Showcases  well structured, modern client-side solutions with attention to performance,  maintainability, and a great user experience. | Keith     |
 | **Power Of The Shell**          | Claimable  Badge                  | Script the  config of your entire solution. Azure infrastructure as code, ARM,  PowerShell, CI/CD | Keith     |
@@ -120,7 +120,7 @@ The following table contains the sponsorship badges:
 | ------------------------------- | --------------------------------- | ------------------------------------------------------------ | --------- |
 | **MSCRM-Addons**         | Sponsorship                       | Pick one of the amazing addons from MSCRM-addons and incorporate it into your solution. Write a blog article showcasing the solution and post the blog on LinkedIn. Remember to tag MSCRM-Addons                           | All       |
 | **Link Mobility**         | Sponsorship                       | Link Mobility are opening up their API and providing some of the best solutions within communication channels. To claim this badge, you need to embedd their service into your solution and write a blog about it. This blog has to be posted to LinkedIn and you must tag Link Mobility in the post.                         | All       |
-| **OneFlow**         | Sponsorship                       | OneFlow being the marketing leader in document signing are providing their solution for all teams to embedd. Showcase the beauty of documents and merged data, and write a blog post about this. Put the blog post on LinkedIn and tag OneFlow                          | All       |
+| **Oneflow**         | Sponsorship                       | Oneflow being the marketing leader in document signing are providing their solution for all teams to embedd. Showcase the beauty of documents and merged data, and write a blog post about this. Put the blog post on LinkedIn and tag Oneflow                          | All       |
 
  
 
