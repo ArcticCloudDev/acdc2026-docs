@@ -131,7 +131,7 @@ The following table contains the sponsorship badges:
 | **WobbaBoyza**     | Mikael   | 5               |
 | **SheriffOfNottm** | Keith    | 5               |
 | **Fredrik C3**     | Fredrik  | 5               |
-|                    | Cathrine | 5               |
+| **Aniriak**        | Cathrine | 5               |
 | **Wallcreep**      | Sara     | 4               |
 | **Scott Durow**    | Scott    | 4               |
 
